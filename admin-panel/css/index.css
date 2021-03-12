@@ -1,0 +1,9 @@
+:root {
+  --input-padding-x: 1.5rem;
+  --input-padding-y: .75rem;
+}
+
+body {
+  background: #007bff;
+  background: linear-gradient(to right, #636e72, #b2bec3);
+}
